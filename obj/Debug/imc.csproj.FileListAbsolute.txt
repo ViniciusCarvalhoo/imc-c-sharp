@@ -1,0 +1,11 @@
+C:\Users\vinicius.cbcerqueira\Desktop\SisBiblioteca\imc\bin\Debug\imc.exe.config
+C:\Users\vinicius.cbcerqueira\Desktop\SisBiblioteca\imc\bin\Debug\imc.exe
+C:\Users\vinicius.cbcerqueira\Desktop\SisBiblioteca\imc\bin\Debug\imc.pdb
+C:\Users\vinicius.cbcerqueira\Desktop\SisBiblioteca\imc\obj\Debug\imc.csproj.AssemblyReference.cache
+C:\Users\vinicius.cbcerqueira\Desktop\SisBiblioteca\imc\obj\Debug\imc.csproj.SuggestedBindingRedirects.cache
+C:\Users\vinicius.cbcerqueira\Desktop\SisBiblioteca\imc\obj\Debug\imc.CalculadorIMC.resources
+C:\Users\vinicius.cbcerqueira\Desktop\SisBiblioteca\imc\obj\Debug\imc.Properties.Resources.resources
+C:\Users\vinicius.cbcerqueira\Desktop\SisBiblioteca\imc\obj\Debug\imc.csproj.GenerateResource.cache
+C:\Users\vinicius.cbcerqueira\Desktop\SisBiblioteca\imc\obj\Debug\imc.csproj.CoreCompileInputs.cache
+C:\Users\vinicius.cbcerqueira\Desktop\SisBiblioteca\imc\obj\Debug\imc.exe
+C:\Users\vinicius.cbcerqueira\Desktop\SisBiblioteca\imc\obj\Debug\imc.pdb
